@@ -1,0 +1,15 @@
+[package]
+name = "image-stream"
+description = "Stream RgbImages"
+version = "0.1.0"
+authors = ["Vincent Pasquier <vincentpasquier@posteo.net>"]
+licence = "GPL-3.0"
+readme = "README.md"
+
+[dependencies]
+bincode = "0.9"
+serde = "1.0"
+serde_derive = "1.0"
+bufstream = "0.1"
+image = "0.18"
+rand = "0.4"
