@@ -3,7 +3,7 @@ name = "image-stream"
 description = "Stream RgbImages"
 version = "0.1.0"
 authors = ["Vincent Pasquier <vincentpasquier@posteo.net>"]
-licence = "GPL-3.0"
+license = "GPL-3.0"
 readme = "README.md"
 
 [dependencies]
